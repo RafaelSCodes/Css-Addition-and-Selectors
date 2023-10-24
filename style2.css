@@ -1,0 +1,20 @@
+p {
+    color:purple
+}
+
+.hello {
+    color:orange
+}
+
+li[value="3"] {
+    color:pink
+}
+
+#Grey {
+    color:gray
+}
+
+* {
+    font-size: 25px;
+    text-align: center;
+}
